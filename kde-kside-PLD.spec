@@ -7,7 +7,7 @@ License:	GPL
 Group:		Themes
 Source0:	http://www.culm.net/~adasi/%{name}-%{version}.tgz
 # Source0-MD5:	fdad8fec9b5d3a7345bf37754e10a3ae
-Requires:	kdebase-kicker >= 9:3.1.91
+Requires:	kdebase-desktop >= 9:3.2.2
 Provides:	kde-kside
 Obsoletes:	kde-kside-default
 BuildArch:	noarch
