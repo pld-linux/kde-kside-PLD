@@ -8,6 +8,7 @@ Group:		Themes
 Source0:	http://www.culm.net/~adasi/%{name}-%{version}.tgz
 Requires:	kdebase-kicker
 Provides:	kde-kside
+Obsoletes:	kde-kside-default
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
