@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		Themes
 Source0:	http://www.culm.net/~adasi/%{name}-%{version}.tgz
+# Source0-MD5:	fdad8fec9b5d3a7345bf37754e10a3ae
 Requires:	kdebase-kicker
 Provides:	kde-kside
 Obsoletes:	kde-kside-default
