@@ -2,7 +2,7 @@ Summary:	PLD kicker sidebar
 Summary(pl):	Pasek boczny PLD
 Name:		kde-kside-PLD
 Version:	0.1
-Release:	1
+Release:	2
 License:	GPL
 Group:		Themes
 Source0:	http://www.culm.net/~adasi/%{name}-%{version}.tgz
@@ -10,6 +10,7 @@ Source0:	http://www.culm.net/~adasi/%{name}-%{version}.tgz
 Requires:	kdebase-kicker
 Provides:	kde-kside
 Obsoletes:	kde-kside-default
+BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
