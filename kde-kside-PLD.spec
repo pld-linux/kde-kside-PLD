@@ -1,5 +1,5 @@
 Summary:	PLD kicker sidebar
-Summary(pl.UTF-8):   Pasek boczny PLD dla kickera
+Summary(pl.UTF-8):	Pasek boczny PLD dla kickera
 Name:		kde-kside-PLD
 Version:	0.1
 Release:	3
